@@ -94,12 +94,17 @@ QA training site — testing fundamentals, AI-assisted testing patterns, and the
 
 ---
 
-## 💼 What I do for a living
+## 💼 Two products, one vision
 
-QA / test automation consulting for enterprises. **Auchan group** is the current primary client. The solo work above is what I build on the side because the tooling needs to exist.
+I'm building two products in parallel:
 
-Open to **collaboration** with serious contributors on OculiX, the `-ix` libs, or any of the QA × AI projects. Open to **sponsoring** if my work saves your team time.
+🦎 **[OculiX](https://github.com/oculix-org/Oculix)** is the open-source flagship — a visual automation IDE in the SikuliX1 lineage, MIT-licensed, no cloud, no token cost. v4.0 ships architecture consolidation; v5.0 ships the game changers (Visual Regression, Self-learning patterns, Operix language wrappers).
 
+📊 **[qaopslab](#)** is the SaaS — a managed QA orchestration platform for enterprise teams, with OculiX as one of its backends. Currently in private development. *Design partners welcome.*
+
+Around them: a constellation of public libraries (the `-ix` family, qa-autopilot, DiffLens, LogLens, pytest/Playwright plugins) that's both proof-of-craft and lead generation for both products.
+
+I'm bootstrapping all this solo. The faster the OSS grows, the faster the SaaS lands.
 ---
 
 <div align="center">
