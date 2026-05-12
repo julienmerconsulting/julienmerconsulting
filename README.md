@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- HERO -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:10B981,100:0b1220&height=220&section=header&text=&fontSize=1" width="100%"/>
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/803a5dad-d19b-4328-9f2d-d8d6ea6ef77d" />
 
 # Julien Mer
 
