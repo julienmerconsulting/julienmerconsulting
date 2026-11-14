@@ -14,8 +14,8 @@
 [![Python package](https://img.shields.io/pypi/v/oculix?style=for-the-badge&logo=python&logoColor=white&label=pip%20install%20oculix&color=8B5CF6)](https://pypi.org/project/oculix/)
 [![Clean QA Academy](https://img.shields.io/badge/Clean_QA_Academy-Free_training-00CFFF?style=for-the-badge)](https://qa-julienmer-course.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julien_Mer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-mer/)
-[![GitHub Stars](https://img.shields.io/github/stars/julienmerconsulting?style=for-the-badge&logo=github&color=8B5CF6)](https://github.com/julienmerconsulting)
-
+[![GitHub Stars](https://img.shields.io/github/stars/julienmerconsulting?affiliations=OWNER%2CORGANIZATION_MEMBER&style=for-the-badge&logo=github&color=8B5CF6)](https://github.com/oculix-org)
+[![SikuliX by Raimund Hocke](https://img.shields.io/github/stars/oculix-org/SikuliX1?style=for-the-badge&logo=github&label=SikuliX%20by%20Raimund%20Hocke&color=00CFFF)](https://github.com/oculix-org/SikuliX1)
 <br>
 
 `Visual Automation` · `QA Architecture` · `OCR` · `OpenCV` · `Remote Systems`
